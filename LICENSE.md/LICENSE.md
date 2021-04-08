@@ -22,3 +22,4 @@
 1. § 13 Osobu do parlamentu může zvolit 10 hlasů občanů, která poté bude reprezentovat lid.
 2. § 14 Hodnostní sbor generálové mají okamžitou možnost vstoupit do parlamentu bez voleb.
 3. § 15 Parlament může začít za předpokladu, že v poslanecké snémovně je 50 % poslanců. 
+4. § 16 Když poslanec bude dělat nepořádek, bude perzekuován.
